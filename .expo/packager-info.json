@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19003,
+  "packagerPort": 19003,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://db-t9e.kuriabyte.rn-starter.exp.direct",
+  "packagerNgrokUrl": "https://packager.db-t9e.kuriabyte.rn-starter.exp.direct",
+  "ngrokPid": 18052,
+  "webpackServerPort": null
+}
